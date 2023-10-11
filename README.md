@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-   🌱 I’m currently learning ... 
+   #### 🌱 I’m currently learning ... 
    
   <div>
     
@@ -24,15 +24,28 @@ Here are some ideas to get you started:
 
   <div>
     
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBSM-000000?style=for-the-badge&logoColor=white" />
   </div>
 
   <div>
-    
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
   </div>
 
+  #### 🔧 My learning Tools are ... 
 
-
+  <div>
+  <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  </div>
+  <div>
+  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  </div>
+  <div>
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </div>
+  <div>
+  <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
+  </div>
 
 </div>
 
