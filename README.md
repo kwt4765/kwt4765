@@ -1,7 +1,7 @@
-### Hi there 👋
-
-<!--
-**kwt4765/kwt4765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&text=Example)
+</div>
 
 Here are some ideas to get you started:
 
