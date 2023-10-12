@@ -6,6 +6,8 @@
 <div align="center">
 
   #### 🌱 새로운 개발 지망생!
+
+  영화전공에서 개발자로 진로 변경
   
    #### ⚒️ My learning Stacks ... 🛠️ 
    
@@ -37,7 +39,17 @@
   <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
 
   </div>
+  #### and Movie Skills ...
 
+  <div>
+  <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/adobepremierepro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/adobeaftereffects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
+  
+
+
+
+  </div>
 
 </div>
 
