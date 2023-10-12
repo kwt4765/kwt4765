@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
 
   </div>
+  
   #### and Movie Skills ...
 
   <div>
