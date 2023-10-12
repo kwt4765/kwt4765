@@ -7,7 +7,7 @@
 
   #### 🌱 새로운 프로그래밍 지망생!
   
-   #### 🌱 I’m currently learning ... 
+   #### ⚒️ My learning Stacks ... 🛠️ 
    
   <div>
     
