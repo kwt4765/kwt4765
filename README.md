@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  #### 🌱 새로운 프로그래머 지망생!
+  #### 🌱 새로운 개발 지망생!
   
    #### ⚒️ My learning Stacks ... 🛠️ 
    
