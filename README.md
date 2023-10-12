@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=About_Me)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=About_Me)
 </div>
 
 <div align="center">
@@ -40,11 +40,3 @@
 </div>
 
 
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
