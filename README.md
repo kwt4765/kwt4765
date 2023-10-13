@@ -40,7 +40,7 @@
 
   </div>
   
-  #### and Movie Skills ...
+  #### 🎥 and Movie Skills ... 
 
   <div>
   <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
