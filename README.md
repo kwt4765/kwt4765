@@ -4,10 +4,9 @@
 </div>
 
 <div align="center">
-
-  영화전공에서 개발자로 진로 변경
-
-
+  
+  
+  
   
   #### 🌱 Learning Langueges ... 
    
