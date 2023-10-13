@@ -5,17 +5,16 @@
 
 <div align="center">
 
-  #### 🌱 새로운 개발 지망생!
-
   영화전공에서 개발자로 진로 변경
+
+
   
-   #### ⚒️ My learning Stacks ... 🛠️ 
+  #### 🌱 Learning Langueges ... 
    
   <div>
     
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white" />
-  <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+
   </div>
 
   <div>
@@ -25,22 +24,42 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white" />
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 
   </div>
-  
+    <img src="https://img.shields.io/badge/DBMS-000000?style=for-the-badge&logo=&logoColor=white"/>  
   <div>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>  
   </div>
 
   <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
 
   </div>
+
+  #### ⚒️ Learning Languege using ... 
+  <div>
+  <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>    
+  </div>
+
+  <div>
+  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  </div>
+
+  <div>
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </div>
   
-  #### 🎥 and Movie Skills ... 
+  <div>
+  <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
+  </div>
+
+  <div>
+    
+  </div>
+  
+  
+  #### 🎥 and Other Skills ... 
 
   <div>
   <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
